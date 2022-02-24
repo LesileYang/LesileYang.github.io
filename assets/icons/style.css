@@ -23,6 +23,21 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+  /* 个人添加的woff字体*/
+.icon-zhihu:before {
+  content: "\e66";
+}
+.icon-weixin:before {
+  content: "\e67";
+}
+.icon-dingding:before {
+  content: "\e68";
+}
+
+
+   /* 个人添加的woff字体*/
+
 .icon-send:before {
   content: "\ea2f";
 }
@@ -934,4 +949,7 @@
 }
 .icon-zoom-out:before {
   content: "\ea2b";
+
+
+
 }
