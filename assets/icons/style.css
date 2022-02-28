@@ -34,7 +34,9 @@
 .icon-dingding:before {
   content: "\e68";
 }
-
+.icon-linkedin:before {
+  content: "\e69";
+}
 
    /* 个人添加的woff字体*/
 
